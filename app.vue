@@ -1,5 +1,5 @@
 <template>
-  <!-- <IntroVideo @ended="videoIsPlaying = false" v-if="videoIsPlaying"/> -->
+  <IntroVideo @ended="videoIsPlaying = false" v-if="videoIsPlaying"/>
     <Header />
     <HeroSection />
 
@@ -17,7 +17,7 @@ useHead({
 
 <style>
 body {
-  cursor: url("http://www.rw-designer.com/icon-image/11106-32x32x32.png"),
+  cursor: url("./assets/img/pentagramicon.png"),
     default;
   font-family: 'Ocra Extended', sans-serif;
 }
