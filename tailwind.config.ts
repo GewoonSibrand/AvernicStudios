@@ -10,6 +10,22 @@ export default {
         darkred: '#AB0000',
         redbrown: '#AC3834',
       },
+      animation: {
+        spinny: 'spinny 6s ease infinite;',
+      },
+      keyframes: {
+        spinny: {
+          '0%': {
+            transform: 'rotate(0deg)',
+          },
+          '50%': {
+            transform: 'rotate(1440deg)',
+          },
+          '50.1%': {
+            transform: 'rotate(0deg)',
+          }
+        },
+      }
     },
   },
   plugins: [],

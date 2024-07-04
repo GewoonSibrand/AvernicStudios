@@ -1,6 +1,6 @@
 <template>
     <video
-      class="fixed right-0 bottom-0 min-h-svh min-w-svh bg-black cursor-none"
+      class="fixed right-0 bottom-0 min-h-svh min-w-svh bg-black"
       src="@/assets/video/intro.webm"
       autoplay
       muted

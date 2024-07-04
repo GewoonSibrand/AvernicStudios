@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Sfera';
+  src: local('Sfera Regular'), local('Sfera-Regular'),
+      url('../fonts/Sfera.woff2') format('woff2'),
+      url('../fonts/Sfera.woff') format('woff'),
+      url('../fonts/Sfera.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

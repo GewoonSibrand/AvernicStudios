@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Ocra Extended';
+  src: local('Ocra Extended'), local('Ocra Extended'),
+      url('../fonts/OCRAExtended.woff2') format('woff2'),
+      url('../fonts/OCRAExtended.woff') format('woff'),
+      url('../fonts/OCRAExtended.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
