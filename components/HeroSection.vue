@@ -1,13 +1,13 @@
 <template>
   <div class="container mx-auto w-full flex">
     <div class="w-2/3">
-      <div class="flex items-center space-x-2">
+      <div class="flex items-center">
         <img
           src="@/assets/img/plusred.svg"
           alt="plus icon"
           class="size-5 animate-spinny"
         />
-        <img src="@/assets/img/opening-decor-2.png" alt="line decoration" />
+        <img src="@/assets/img/l.png" alt="line decoration" class="w-full mx-6"/>
         <img
           src="@/assets/img/plusred.svg"
           alt="plus icon"
@@ -23,13 +23,13 @@
         </h1>
         <h2 class="text-[56px]">Online tools forged in fiery depths</h2>
       </div>
-      <div class="flex items-center space-x-2">
+      <div class="flex items-center">
         <img
           src="@/assets/img/plusred.svg"
           alt="plus icon"
           class="size-5 animate-spinny"
         />
-        <img src="@/assets/img/opening-decor-2.png" alt="line decoration" />
+        <img src="@/assets/img/r.png" alt="line decoration" class="w-full mx-6"/>
         <img
           src="@/assets/img/plusred.svg"
           alt="plus icon"
