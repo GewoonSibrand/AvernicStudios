@@ -14,7 +14,7 @@
           class="size-5 animate-spinny"
         />
       </div>
-      <div class="text-white ml-9">
+      <div class="text-white ml-9 py-4">
         <h1 class="text-[79px]">
           <span class="text-primary [text-shadow:_0_0_4px_#FF0000]"
             >Avernic</span
