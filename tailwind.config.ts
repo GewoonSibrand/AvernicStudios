@@ -11,7 +11,7 @@ export default {
         redbrown: '#AC3834',
       },
       animation: {
-        spinny: 'spinny 6s ease infinite;',
+        spinny: 'spinny 6s ease infinite',
       },
       keyframes: {
         spinny: {
